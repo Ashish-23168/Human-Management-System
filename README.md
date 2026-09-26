@@ -1,5 +1,7 @@
 # Human Resource Management System (HRMS)
 
+Link url:- (https://github.com/Ashish-23168/Human-Management-System)
+
 This is an web application for managing human resources in a company. It was built using Laravel 8.
 <br>
 <br>
