@@ -46,4 +46,4 @@ You can log into the application with this credentials (if you did the database 
 ![Recruitment Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Recruitment.png?raw=true)
 
 **Recruitment Detail Screen**
-![Recruitment Detail Screen](./documentation-images/Recruitment%20Detail.png)
+![Recruitment Detail Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Recruitment.png?raw=true)
