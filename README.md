@@ -28,7 +28,7 @@ You can log into the application with this credentials (if you did the database 
 ## Screenshots
 
 **Home Screen**
-![Home Screen](./documentation-images/Home.png)
+![Home Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Home.png?raw=true)
 
 **Dashboard Screen**
 ![Dashboard Screen](./documentation-images/Dashboard.png)
