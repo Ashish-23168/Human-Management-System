@@ -43,7 +43,7 @@ You can log into the application with this credentials (if you did the database 
 ![Attendances Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Attendances.png?raw=true)
 
 **Recruitment Screen**
-![Recruitment Screen](./documentation-images/Recruitment.png)
+![Recruitment Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Recruitment.png?raw=true)
 
 **Recruitment Detail Screen**
 ![Recruitment Detail Screen](./documentation-images/Recruitment%20Detail.png)
