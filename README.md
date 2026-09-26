@@ -40,7 +40,7 @@ You can log into the application with this credentials (if you did the database 
 ![Employee Leaves Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Employees%20Leaves.png?raw=true)
 
 **Attendances Screen**
-![Attendances Screen](./documentation-images/Attendances.png)
+![Attendances Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Attendances.png?raw=true)
 
 **Recruitment Screen**
 ![Recruitment Screen](./documentation-images/Recruitment.png)
