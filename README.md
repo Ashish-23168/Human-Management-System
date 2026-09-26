@@ -1,4 +1,4 @@
-# Human Resource Management System
+# Human Resource Management System (HRMS)
 
 This is an web application for managing human resources in a company. It was built using Laravel 8.
 <br>
