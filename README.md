@@ -31,7 +31,7 @@ You can log into the application with this credentials (if you did the database 
 ![Home Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Home.png?raw=true)
 
 **Dashboard Screen**
-![Dashboard Screen](./documentation-images/Dashboard.png)
+![Dashboard Screen](https://github.com/Ashish-23168/Human-Management-System/blob/main/dicumentation-image/Dashboard.png?raw=true)
 
 **Employee List Screen**
 ![Employee List Screen](./documentation-images/Employee%20List.png)
